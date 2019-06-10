@@ -1,0 +1,63 @@
+/* your custom css */
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
+
+body {
+  background-color: #1f2135;
+  color: #fff;
+  font-family: "Lato";
+}
+
+.docsNavContainer {
+  background-color: #1f2135;
+}
+
+.tocActive .onPageNav {
+  background-color: #1f2135;
+}
+
+.toc .toggleNav .navGroup .navGroupCategoryTitle {
+  color: #FFF;
+}
+
+.onPageNav a {
+  color: #FFF;
+}
+
+.toc .toggleNav ul li a {
+  color: #FFF;
+}
+
+table tr:nth-child(2n) {
+  background-color: #343654;
+}
+
+table, th, td {
+  border-color: #2e3148 !important;
+}
+
+.hljs {
+  background: #2e3148;
+  color: #fff;
+} 
+
+p {
+  color: #a2a4ce;
+}
+
+.hljs-string {
+  color: #7289da;
+}
