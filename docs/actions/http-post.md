@@ -68,7 +68,7 @@ The body of the request will be a Discord payload - it depends what triggers the
 ## Replying to the Request
 **Note: your server must respond within 5 seconds or we'll dismiss it**
 
-You can reply to the request with `204` to do nothing, or you can respond with an action object for CloudCord to execute.
+You can reply to the request with a status code of `204 No Content` to do nothing, or you can respond with an action object for CloudCord to execute.
 
 ### Example: replying to the request with a SEND_MESSAGE_TO_CHANNEL action
 
