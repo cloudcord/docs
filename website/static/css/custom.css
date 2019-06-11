@@ -21,6 +21,10 @@ body {
   font-family: "Lato";
 }
 
+h2 {
+  font-size: 28px;
+}
+
 .docsNavContainer {
   background-color: #1f2135;
 }

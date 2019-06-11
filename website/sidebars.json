@@ -1,6 +1,6 @@
 {
   "docs": {
     "Getting Started": ["intro", "core-concepts"],
-    "Actions": ["actions/http-post"]
+    "Actions": ["actions/http-post", "actions/send-message-to-channel"]
   }
 }

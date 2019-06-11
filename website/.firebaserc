@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "cloudcord"
+  },
+  "targets": {
+    "cloudcord": {
+      "hosting": {
+        "docs": [
+          "cloudcord-docs"
+        ]
+      }
+    }
+  }
+}
